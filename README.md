@@ -23,6 +23,7 @@ I enjoy working with real datasets to uncover patterns, trends, and insights tha
 - **SQL** (Google BigQuery, MySQL)
 - **Power BI** (Dashboards & Data Visualization)
 - **Excel** (Data Analysis & Pivot Tables)
+- **Microsoft PowerPoint** (Presentations)
 - **Data Cleaning & Transformation**
 - **Miro** (Brainstorming, data planning & analysis mapping)
 - **AI Tools** (e.g., Lovable for dashboard design & workflow enhancement)
