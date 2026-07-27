@@ -53,7 +53,7 @@ Worked on real-world SQL problems including filtering, aggregations, subqueries,
 
 ## 📫 Connect With Me
 
-- 📧 Email: Godfreymoyo*@gmail.com  
+- 📧 Email: Godfreymoyo8@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/godfrey-siphamandla-moyo-761aba152
 
 ---
