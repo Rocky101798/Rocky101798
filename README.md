@@ -1,10 +1,10 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:22D3EE,50:8B5CF6,100:EC4899&text=Godfrey%20Siphamandla%20Moyo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Fraud%20Risk%20%C2%B7%20AWS%20Cloud&descAlignY=60&descSize=17" width="100%" alt="Godfrey Siphamandla Moyo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:22D3EE,50:8B5CF6,100:EC4899&text=Godfrey%20Siphamandla%20Moyo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Cloud%20Data%20Engineer%20%C2%B7%20AWS&descAlignY=60&descSize=17" width="100%" alt="Godfrey Siphamandla Moyo" />
 
 <div align="center">
 
 <a href="https://github.com/Rocky101798">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=I+turn+fraud+%26+business+data+into+decisions.;SQL+%E2%80%A2+Databricks+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI;Fraud+Detection+Consultant+%40+Standard+Bank;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=I+turn+messy+data+into+clear+decisions.;SQL+%E2%80%A2+Databricks+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI+%E2%80%A2+AWS;Data+Analyst+%E2%86%92+Cloud+Data+Engineer+%E2%98%81%EF%B8%8F;Banking+%E2%80%A2+Retail+%E2%80%A2+Media+%E2%80%A2+Automotive" alt="Typing intro" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/godfrey-siphamandla-moyo-761aba152"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:godfreymoyo8@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-Johannesburg%2C%20SA-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Data%20%26%20BA%20roles-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20%C2%B7%20BA%20%C2%B7%20Data%20Eng%20roles-10B981?style=for-the-badge" />
 
 </div>
 
@@ -22,11 +22,15 @@
 
 ```yaml
 role:        Fraud Detection Consultant @ Standard Bank Group
-experience:  2+ years investigating digital & e-channel fraud (Falcon, Mastercard, Visa, IBM)
+experience:  2+ years turning high-volume transaction data into decisions (banking & fraud)
+projects:    Banking · Retail · Media & streaming · Automotive
 education:   PGDip Risk Management · BA Communication Science (UNISA)
 certified:   [AWS Cloud Practitioner, Microsoft Power BI]
-learning:    AWS Solutions Architect – Associate 🏗️
-goal:        Bridge financial risk and data intelligence as a Data / Business Analyst
+learning:    AWS Cloud Data Engineer path ☁️
+               - AWS Certified Solutions Architect – Associate
+               - AWS Certified Data Engineer – Associate
+goal:        Build data solutions & cloud pipelines in any industry
+target:      Data Analyst · Business Analyst · Data Engineer
 ```
 
 ---
@@ -111,10 +115,10 @@ Every case-study repo follows the same layout, so you always know where to look:
 </p>
 
 <p><b>Cloud</b><br/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20progress-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%93%20Associate-In%20progress-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20Data%20Engineer%20%E2%80%93%20Associate-In%20progress-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
-<p><b>Fraud & risk</b><br/>
+<p><b>Domain experience: banking, fraud & risk</b><br/>
 <img src="https://img.shields.io/badge/Falcon-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/Mastercard%20Risk%20Tools-EB001B?style=flat-square&logo=mastercard&logoColor=white" /> <img src="https://img.shields.io/badge/Visa%20Systems-1A1F71?style=flat-square&logo=visa&logoColor=white" /> <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/AML%20%26%20Compliance-8B5CF6?style=flat-square" />
 </p>
 
@@ -126,10 +130,10 @@ Every case-study repo follows the same layout, so you always know where to look:
 
 ### 📈 Currently
 
-- 🏗️ Studying for **AWS Certified Solutions Architect – Associate**
+- ☁️ Completing my **AWS Cloud Data Engineer** certifications: **Solutions Architect – Associate** and **Data Engineer – Associate**
 - 🧠 Levelling up advanced SQL: window functions, CTE pipelines, query performance
-- 🛡️ Applying analytics to **fraud detection and financial-crime risk**
-- 🤝 Open to **Data / Business Analyst roles** and freelance analytics for SMEs
+- 🌍 Applying data skills **across industries**: banking, retail, media, automotive and beyond
+- 🤝 Open to **Data Analyst, Business Analyst and Data Engineering roles**, plus freelance analytics for SMEs
 
 <div align="center">
 
