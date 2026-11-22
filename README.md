@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:22D3EE,50:8B5CF6,100:EC4899&text=Godfrey%20Siphamandla%20Moyo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Cloud%20Data%20Engineer%20%C2%B7%20AWS&descAlignY=60&descSize=17" width="100%" alt="Godfrey Siphamandla Moyo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:22D3EE,50:8B5CF6,100:EC4899&text=Siphamandla%20Moyo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Aspiring%20Cloud%20Data%20Engineer%20%C2%B7%20AWS&descAlignY=60&descSize=17" width="100%" alt="Siphamandla Moyo" />
 
 <div align="center">
 
