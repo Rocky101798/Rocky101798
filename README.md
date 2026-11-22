@@ -9,6 +9,7 @@
 
 <br/>
 
+<a href="https://rocky101798.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/godfrey-siphamandla-moyo-761aba152"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:godfreymoyo8@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-Johannesburg%2C%20SA-8B5CF6?style=for-the-badge" />
