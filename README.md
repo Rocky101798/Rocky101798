@@ -1,75 +1,140 @@
-## Hi there 👋
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:22D3EE,50:8B5CF6,100:EC4899&text=Godfrey%20Siphamandla%20Moyo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Fraud%20Risk%20%C2%B7%20AWS%20Cloud&descAlignY=60&descSize=17" width="100%" alt="Godfrey Siphamandla Moyo" />
 
-# 👋 Hi, I'm Siphamandla
+<div align="center">
 
-🎯 Aspiring Fraud & Data Analyst  
-📊 Turning data into insights and solving real-world problems  
+<a href="https://github.com/Rocky101798">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=I+turn+fraud+%26+business+data+into+decisions.;SQL+%E2%80%A2+Databricks+%E2%80%A2+BigQuery+%E2%80%A2+Power+BI;Fraud+Detection+Consultant+%40+Standard+Bank;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing intro" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/godfrey-siphamandla-moyo-761aba152"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:godfreymoyo8@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-Johannesburg%2C%20SA-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20%26%20BA%20roles-10B981?style=for-the-badge" />
 
-I am a data-driven individual with a strong interest in:
-- Fraud detection & risk analysis
-- Business analytics
-- Data storytelling
-
-I enjoy working with real datasets to uncover patterns, trends, and insights that support better decision-making.
-
----
-
-## 🛠️ Skills & Tools
-
-- **SQL** (Google BigQuery, MySQL)
-- **Power BI** (Dashboards & Data Visualization)
-- **Excel** (Data Analysis & Pivot Tables)
-- **Microsoft PowerPoint** (Presentations)
-- **Data Cleaning & Transformation**
-- **Miro** (Brainstorming, data planning & analysis mapping)
-- **AI Tools** (e.g., Lovable for dashboard design & workflow enhancement)
+</div>
 
 ---
 
-## 📂 Projects
+### 👋 About me
 
-🔹 **Retail Sales Analysis (BigQuery)**  
-Analyzed transactional data to identify revenue trends, customer behavior, and product performance.
-
-🔹 **Coffee Shop Sales Dashboard**  
-Built Power BI dashboards to track KPIs like peak hours, top products, and store performance.
-
-🔹 **SQL Practice & Case Studies**  
-Worked on real-world SQL problems including filtering, aggregations, subqueries, and CTEs.
-
----
-
-## 📈 What I'm Working On
-
-- Advancing SQL skills (CTEs, subqueries, performance optimization)
-- Building more real-world data projects
-- Developing skills in fraud analytics and risk management
+```yaml
+role:        Fraud Detection Consultant @ Standard Bank Group
+experience:  2+ years investigating digital & e-channel fraud (Falcon, Mastercard, Visa, IBM)
+education:   PGDip Risk Management · BA Communication Science (UNISA)
+certified:   [AWS Cloud Practitioner, Microsoft Power BI]
+learning:    AWS Solutions Architect – Associate 🏗️
+goal:        Bridge financial risk and data intelligence as a Data / Business Analyst
+```
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured projects
 
-- 📧 Email: Godfreymoyo8@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/godfrey-siphamandla-moyo-761aba152
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 [Banking & Finance Analysis](https://github.com/Rocky101798/SQL-Projects-/tree/main/banking-finance-analysis)
+Cleaned **5,600 messy rows** across customers, accounts and transactions in Databricks, then built a 5-page Power BI dashboard.
+<br/>**Found:** 36.9% of transactions failing · 47% of customers with poor credit.
+
+`SQL` `Databricks` `Power BI` `DAX`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📺 [BrightTV Viewership Analytics](https://github.com/Rocky101798/BrightLearn-TV-)
+What makes people watch more? Session-level analysis (UTC → SAST) to help grow subscribers and usage.
+<br/>**Live:** [interactive dashboard ↗](https://siphamandlam.lovable.app)
+
+`SQL` `Databricks` `Power BI` `Excel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚗 [Bright Motors Car Sales](https://github.com/Rocky101798/Motors-CarSales-Analysis)
+Stock, pricing and expansion insights for a new Head of Sales: makes, mileage, market value (MMR) and regional trends.
+
+`SQL` `Power BI` `Excel` `Miro`
+
+</td>
+<td width="50%" valign="top">
+
+#### ☕ [Bright Coffee Shop Sales](https://github.com/Rocky101798/coffee-shop-data-analysis)
+Top store, peak hours (8–10 AM) and best and worst products, turned into a staffing and menu plan.
+
+`BigQuery` `Power BI` `Excel` `Miro`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 SQL practice & learning repos</b></summary>
+<br/>
+
+| Repo | What's inside |
+|---|---|
+| [SQL-Practice-](https://github.com/Rocky101798/SQL-Practice-) | Cleaning messy employee, hospital and hotel data; CTE pipelines, `ROW_NUMBER()` dedup, multi-table JOINs |
+| [BigQuery-Practice](https://github.com/Rocky101798/BigQuery-Practice) | BigQuery drills on coffee and retail sales datasets |
+| [BrightLearn-Exercises](https://github.com/Rocky101798/BrightLearn-Exercises) | Weekly course exercises: SELECT → aggregates → CASE → JOINs |
+
+</details>
 
 ---
 
-⭐ *Always learning. Always improving.*
-<!--
-**Rocky101798/Rocky101798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 How I approach every project
 
-Here are some ideas to get you started:
+```mermaid
+flowchart LR
+    A[📄 Business brief] --> B[🗺️ Plan in Miro]
+    B --> C[🧹 Clean with SQL]
+    C --> D[🔍 Analyse]
+    D --> E[📊 Power BI dashboard]
+    E --> F[🎤 Insights & recommendations]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Every case-study repo follows the same layout, so you always know where to look:
+`01-brief-and-raw-data` → `02-project-planning` → `03-sql-analysis` → `04-dashboard-and-presentation`
+
+---
+
+### 🛠️ Toolkit
+
+<p><b>Data & BI</b><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p><b>Cloud</b><br/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20progress-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
+
+<p><b>Fraud & risk</b><br/>
+<img src="https://img.shields.io/badge/Falcon-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/Mastercard%20Risk%20Tools-EB001B?style=flat-square&logo=mastercard&logoColor=white" /> <img src="https://img.shields.io/badge/Visa%20Systems-1A1F71?style=flat-square&logo=visa&logoColor=white" /> <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/AML%20%26%20Compliance-8B5CF6?style=flat-square" />
+</p>
+
+<p><b>Planning & productivity</b><br/>
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" /> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20tools-Lovable%20%C2%B7%20LLMs-10B981?style=flat-square" />
+</p>
+
+---
+
+### 📈 Currently
+
+- 🏗️ Studying for **AWS Certified Solutions Architect – Associate**
+- 🧠 Levelling up advanced SQL: window functions, CTE pipelines, query performance
+- 🛡️ Applying analytics to **fraud detection and financial-crime risk**
+- 🤝 Open to **Data / Business Analyst roles** and freelance analytics for SMEs
+
+<div align="center">
+
+*Always learning. Always improving.* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:EC4899,50:8B5CF6,100:22D3EE" width="100%" />
+
+</div>
